@@ -6,7 +6,8 @@ public class TaskManager {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("=== Task Manager v1 ===");
+
+        System.out.println("=== Task Manager - final ===");
 
         while (true) {
             System.out.println("\n1. Add Task  2. View Tasks  3. Exit 4. delete task");
