@@ -10,7 +10,7 @@ public class TaskManager {
         System.out.println("=== Task Manager - final ===");
 
         while (true) {
-            System.out.println("\n1. Add Task  2. View Tasks  3. Exit 4. delete task");
+            System.out.println("\n1. Add Task  2. View Tasks  3. Exit 4. delete task 5. Mark complete");
             System.out.print("Choose: ");
             int choice = sc.nextInt(); sc.nextLine();
 
